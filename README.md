@@ -1,3 +1,4 @@
 # CodeFunDo
-for code fun do ++ competition
-put a good idea here!
+After recent incidents/Havocs cause I propose to make a program that would be able to predict or atleast give signal far before the occurence of a Flood.
+Using data of rain level with time at place where flood happened or maybe heavy rains took place make a model that could predict levels of rains. I also plan to make arrangements for the vulnerability for that place using previous history of that place and nearby places, it's drainage management system and other factors. Using level of river level with maybe sensors on the bank and speed of river as well, again using previous data would be helpful predictor as well. Other things such as rate at which the level of rains has increased in a prticular time period can also help.I couldn't find great resources on this but if I can use data of clouds somehow and use it in someway to see heavy or spot bulky clouds it would be a nice addition. Right now I am also researching about other factors that could be used for predicting flood like comoon factors which maybe be not llok that obvious.
+I believe that using all these factors and others I find with subsequent research my model would be able to predict Floods with significant accuracy   
